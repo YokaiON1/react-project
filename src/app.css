@@ -1,0 +1,26 @@
+
+.container {
+  padding: 20px;
+  background-color: #6d6d6d;
+}
+
+.ant-table {
+  background-color: #bebebe; 
+  border-radius: 8px; 
+  overflow: hidden; 
+}
+
+.ant-table img {
+  border-radius: 4px; 
+  width: 300px; 
+  height: 300px; 
+  object-fit: cover; 
+}
+
+.table-actions {
+  display: flex;
+  gap: 10px; 
+}
+
+
+
